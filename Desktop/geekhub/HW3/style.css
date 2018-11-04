@@ -41,6 +41,13 @@ body {
     width: 100%;
     /*box-sizing: border-box;*/
 }
+.main_img {
+    width: 100%;
+}
+.structure {
+    /*display: flex;*/
+    /*flex-direction: row;*/
+}
 .main {
     display: flex;
     flex-direction: column;
